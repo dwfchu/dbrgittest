@@ -7,4 +7,4 @@ print("hello world!")
 
 # COMMAND ----------
 
-
+print("pythonisamazing")
